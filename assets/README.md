@@ -1,0 +1,1 @@
+Place the uploaded perfume cinematic video at assets/perfume-scroll.mp4 for local/static hosting. The page is wired to this path and uses it as a scroll-scrubbed hero background.
